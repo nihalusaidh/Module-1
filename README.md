@@ -20,6 +20,7 @@ else:
     print(“Odd”)
 
 ## Output
+<img width="1916" height="798" alt="m1 o1" src="https://github.com/user-attachments/assets/24b85aa0-5268-4a18-8975-9783f1cc7928" />
 
 
 ## Result
@@ -53,10 +54,8 @@ print(f"c: {c}")
 print(f"d: {d}")
 
 ## Output
- a is True
-b is True
-c: 2
-d: 9
+<img width="1884" height="793" alt="m1 o2" src="https://github.com/user-attachments/assets/9c3bc300-b717-4b5d-b88d-453e4d9b4b9a" />
+
 ## Result
 Thus the results of boolean and arithmetic expressions involving `True` and `False` is executed.
 
@@ -74,8 +73,8 @@ print(“T”)
 print(“a”)
 
 ## Output
-T
-a
+<img width="1918" height="792" alt="m1 o3" src="https://github.com/user-attachments/assets/31247193-7754-4dcc-a347-1214d3eb89d7" />
+
 ## Result
 Thus Python program that prints the characters `'T'` and `'a'` using character literals is executed.
 
@@ -99,10 +98,8 @@ x=complex(a,b)
 print(x.real)
 print(x.imag)
 ## Output
-a=5
-b=6
-5.0
-6.0
+<img width="1915" height="794" alt="m1 o4" src="https://github.com/user-attachments/assets/ca1be2fb-54b7-436b-94da-8102f8ded33e" />
+
 
 ## Result
 Thus Datatypes-Complex Number Creation in Python is executed successfully.
@@ -122,7 +119,7 @@ men_stepped_on_the_moon=int(input())
 print(men_stepped_on_the_moon)
 
 ## Output
-120
+<img width="1919" height="797" alt="m1 o5" src="https://github.com/user-attachments/assets/d81d3009-9a28-4f07-b70a-96f4ce73b8b9" />
 
 ## Result
-Thus Python program to read a string from the user and then print it is exec
+Thus Python program to read a string from the user and then print it is executed.
